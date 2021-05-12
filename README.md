@@ -13,7 +13,7 @@ the following command
 But don't worry, I feel the laziness too:)
 ## IMPORTANT
 You may check the code and notice that the variable 
-```JavaScript
-let express
+```python
+self.chars
 ```
-has sone unsupported characters.No need to worry about it because once you run the file in cmd or terminal you'll see them turn back into normal chars because they are supported there.
+has some unsupported characters.No need to worry about it because once you run the file in cmd or terminal you'll see them turn back into normal chars because they are supported there.
