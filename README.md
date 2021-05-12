@@ -7,6 +7,6 @@ run your .py files from there by typing `python ASCII.py` but before that you ha
 let's start with an example.
 `python ASCII.py -p Desktop//python_files//image.jpg -n 3 -r 0.6 -s 20`
 To understand the arguments you can simply type
-the following command :
+the following command
 `python ASCII.py --help`
 But don't worry, I feel the laziness too:)
