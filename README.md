@@ -11,7 +11,7 @@ To understand the arguments you can simply type
 the following command
 `python ASCII.py --help`
 But don't worry, I feel the laziness too:)
-## IMPORTANT
+### IMPORTANT
 You may check the code and notice that the variable 
 ```python
 self.chars
